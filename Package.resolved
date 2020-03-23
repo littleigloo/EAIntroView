@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "EARestrictedScrollView",
+        "repositoryURL": "https://github.com/epitonium/EARestrictedScrollView.git",
+        "state": {
+          "branch": null,
+          "revision": "cf6f081d44f5bfea006139eb95417ae554cac89c",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
