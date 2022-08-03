@@ -8,7 +8,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/SPM-Swift%20Package-FA7343?logo=Swift&style=for-the-badge&logoColor=white" alt="Swift Package">
 <br>
-<img src="https://img.shields.io/github/v/tag/epitonium/EAIntroView?color=4BC51D&label=Release">
+<img src="https://img.shields.io/github/v/tag/littleigloo/EAIntroView?color=4BC51D&label=Release">
 <img src="https://img.shields.io/badge/platform-iOS%20-9BD600.svg?style=flat">
 </p>
 
