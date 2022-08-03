@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "EARestrictedScrollView",
-        "repositoryURL": "https://github.com/epitonium/EARestrictedScrollView.git",
+        "repositoryURL": "https://github.com/littleigloo/EARestrictedScrollView.git",
         "state": {
           "branch": null,
-          "revision": "cf6f081d44f5bfea006139eb95417ae554cac89c",
-          "version": "1.0.0"
+          "revision": "26ca533cbbde2ebe17f7c9d7b5c1c3587f915d9c",
+          "version": "1.0.1"
         }
       }
     ]
